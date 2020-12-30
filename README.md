@@ -1,1 +1,1 @@
-# Flask APP for testing purposes
+# Simple web app built with Flask
