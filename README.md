@@ -5,7 +5,7 @@
 
 ## Set up development server
 - ` set FLASK_APP=main.py `
-- ` set FLASK_ENV=development |  set FLASK_ENV=development `
+- ` set FLASK_ENV=development |  set FLASK_ENV=production `
 - ` flask run `
 
 ## WSGI server for Linux systems: Gunicorn
